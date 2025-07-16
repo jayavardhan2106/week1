@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>CVR COLLEGE OF ENGINEERING</title>
+ </head>
+ <body>
+   <table border="0" width="100%" cellpadding="10">
+    <tr>
+      <td width="100" align="right">
+        <img src="C:\Users\CVR\Pictures\cvr logo.png" alt="CVR Logo" width="90">
+      </td>
+      <td align="left">
+        <font face="Arial" size="6"><b>CVR College of Engineering</b></font><br>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>  
+ <hr>
+ <nav>
+ <a href="Home.html">Home | </a>
+ <a href="About Us.html">About Us | </a>
+ <a href="Academics.html">Academics | </a>
+ <a href="Departments.html">Departments | </a>
+ <a href="Research.html">Research | </a>
+ <a href="Infrastructure.html">Infrastructure | </a>
+ <a href="Placements.html">Placements | </a>
+ <a href="Alumni.html">Alumni | </a>
+ <a href="More.html">More | </a>
+ <a href="Contact Us.html">Contact Us | </a>
+ </nav>
+ 
+  </body>
+</html>
+<br><br><br><br><br><br>
+<img src="CVRCE-Ibrahimpatnam.webp" alt="CVRCE Campus" width="600" align="left">
+<img src="C:\Users\CVR\6717\college-aerial-view.jpg" alt="College Aerial View" width="600" align ="right">
+
+
